@@ -1,2 +1,2 @@
-# modelatge-BBDD
-Exercici Modelatge BBDD ITAcademy
+# BBDD
+Exercicis BBDD ITAcademy
